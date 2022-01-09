@@ -1,1 +1,1 @@
-# notes-app
+Notes App built using Node.js
